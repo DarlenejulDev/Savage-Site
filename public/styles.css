@@ -1,6 +1,18 @@
 body{
-  background: red;
+  background: grey;
+
 }
-h3{
+/* h3,h2{
   margin-top: 40px;
-}
+  display: flex;
+  justify-content: center;
+} */
+/* li{
+  display: flex;
+  justify-content: center;
+} */
+/* {
+margin-top: 40px;
+display: flex;
+justify-content: center;
+} */
